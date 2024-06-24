@@ -1,4 +1,4 @@
-package candidatura;
+package com.estudos.candidatura;
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 public class ProcessoSeletivo {
