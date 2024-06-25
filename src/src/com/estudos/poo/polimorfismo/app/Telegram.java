@@ -1,6 +1,6 @@
 package com.estudos.poo.polimorfismo.app;
 
-import com.estudos.poo.polimorfismo.app.ServicoMensagemInstantanea;
+import com.estudos.poo.polimorfismo.utilitary.ServicoMensagemInstantanea;
 
 public class Telegram extends ServicoMensagemInstantanea {
 

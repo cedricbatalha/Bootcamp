@@ -2,7 +2,7 @@ package com.estudos.poo.polimorfismo;
 
 import com.estudos.poo.polimorfismo.app.MSNMessenger;
 import com.estudos.poo.polimorfismo.app.FacebookMessenger;
-import com.estudos.poo.polimorfismo.app.ServicoMensagemInstantanea;
+import com.estudos.poo.polimorfismo.utilitary.ServicoMensagemInstantanea;
 import com.estudos.poo.polimorfismo.app.Telegram;
 
 public class ComputadorPedrinho {

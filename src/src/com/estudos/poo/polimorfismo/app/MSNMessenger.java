@@ -1,5 +1,7 @@
 package com.estudos.poo.polimorfismo.app;
 
+import com.estudos.poo.polimorfismo.utilitary.ServicoMensagemInstantanea;
+
 public class MSNMessenger extends ServicoMensagemInstantanea {
 
     public void enviarMensagem(){

@@ -1,4 +1,4 @@
-package com.estudos.poo.polimorfismo.app;
+package com.estudos.poo.polimorfismo.utilitary;
 
 public abstract class ServicoMensagemInstantanea {
     public abstract void enviarMensagem();
