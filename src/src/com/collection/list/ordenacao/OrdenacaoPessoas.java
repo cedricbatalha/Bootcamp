@@ -1,9 +1,8 @@
-package com.collection.list.OperacoesBasicas;
+package com.collection.list.ordenacao;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import com.collection.list.OperacoesBasicas.Pessoa;
 
 public class OrdenacaoPessoas {
 

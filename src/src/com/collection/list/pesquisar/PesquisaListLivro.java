@@ -1,4 +1,4 @@
-package com.collection.list.OperacoesBasicas;
+package com.collection.list.pesquisar;
 
 public class PesquisaListLivro {
 
