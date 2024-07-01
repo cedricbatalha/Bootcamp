@@ -8,6 +8,6 @@ public class Optional {
 
         Optional<String> optionalValue = Optional.of("Hello");
         optionalValue.ifPresent(value -> System.out.println("Valor presente: " + value));
-         */
+        */
     }
 }
