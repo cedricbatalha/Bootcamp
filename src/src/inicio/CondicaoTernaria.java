@@ -1,3 +1,5 @@
+package inicio;
+
 public class CondicaoTernaria {
     public static void main (String[] args){
 

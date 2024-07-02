@@ -1,4 +1,4 @@
-package br.com.dio.debbuging;
+package inicio;
 
 import java.util.Scanner;
 

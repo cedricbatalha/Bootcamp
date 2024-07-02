@@ -1,3 +1,5 @@
+package inicio;
+
 import java.text.ParseException;
 import java.util.Locale;
 import java.util.Scanner;

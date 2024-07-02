@@ -1,3 +1,5 @@
+package inicio;
+
 public class ExemploBreaakContinue {
 
     public static void main(String[] args) {

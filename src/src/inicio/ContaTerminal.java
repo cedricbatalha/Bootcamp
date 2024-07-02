@@ -1,4 +1,4 @@
-//To Do: conhecer e importar a classe Scanner
+package inicio;//To Do: conhecer e importar a classe Scanner
 import java.util.Locale;
 import java.util.Scanner;
 
